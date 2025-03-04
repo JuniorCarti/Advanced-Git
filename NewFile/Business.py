@@ -1,1 +1,1 @@
-print("Results for business studies")
+print("Give me the results for Third Year Students")
